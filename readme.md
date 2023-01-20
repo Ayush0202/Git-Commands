@@ -99,3 +99,8 @@ $ git pull upstream main
 
 $ git push origin main  
 ```
+
+#### Delete a git repository
+```
+$ rm -rf .git
+```
